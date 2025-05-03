@@ -20,6 +20,7 @@ This project showcases a complete data cleaning process using MySQL on a dataset
   - `layoffs.csv`: Original Dataset
   - `layoffs.json`: Dataset converted from CSV to JSON
   - `datacleaning`: Cleaned dataset
+  - `Exploratory`: Exploratory analysis on cleaned dataset
   - `README.md`: Project documentation
  
   ## Sample Cleaning Steps
