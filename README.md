@@ -1,14 +1,14 @@
 # Layoffs Data Cleaning Project
 This project showcases a complete data cleaning process using MySQL on a dataset of tech industry layoffs.
 
-## Objectives
+  ## Objectives
 
-- Load & explore raw data
-- Remove duplicate data
-- Clean and standardize date formats
-- Remove or convert invalid values ('None', empty strings, NULL)
-- Standardize text & format
-- Prepare dataset for further analysis
+  - Load & explore raw data
+  - Remove duplicate data
+  - Clean and standardize date formats
+  - Remove or convert invalid values ('None', empty strings, NULL)
+  - Standardize text & format
+  - Prepare dataset for further analysis
 
   ## Tools Used
 
